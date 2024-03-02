@@ -1,0 +1,23 @@
+{
+  "name": "markvunka456",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rhaletskyj/markvunka456.git"
+  },
+  "dependencies": {
+    "morvunka228": "1.0.0",
+    "paket228": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhaletskyj/markvunka456/issues"
+  },
+  "homepage": "https://github.com/Rhaletskyj/markvunka456#readme"
+}
