@@ -1,6 +1,6 @@
 {
   "name": "markvunka456",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "study",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/Rhaletskyj/markvunka456.git"
+    "url": "https://github.com/Rhaletskyj/markvunka456.git"
   },
   "dependencies": {
     "morvunka228": "1.0.0",
-    "paket228": "1.0.1"
+    "paket228": "1.0.3"
   },
   "author": "",
   "license": "ISC",
